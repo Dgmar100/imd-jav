@@ -3,8 +3,9 @@
 1. Bacalhau a bras
 2. Empadao de carne
 3. Paelha
-<<<<<<< HEAD
+
 4. bolos
 mass
 gelado
+
 
